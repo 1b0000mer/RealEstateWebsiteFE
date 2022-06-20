@@ -1,0 +1,21 @@
+.lang-vi {
+  background-image: url('../../../../assets/webmag/img/lang/vi.svg');
+}
+.lang-en {
+  background-image: url('../../../../assets/webmag/img/lang/en.svg');
+}
+.language-btn {
+  margin-left: 10px;
+  background-size: 22px;
+  background-position: 0px 24px;
+  background-repeat: no-repeat;
+  text-transform: uppercase;
+  /* padding: 6px; */
+}
+.language-btn span {
+  opacity: 0;
+}
+.language-btn span:last-child {
+  opacity: 1;
+  text-transform: uppercase;
+}
